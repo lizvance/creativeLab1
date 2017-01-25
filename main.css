@@ -1,0 +1,81 @@
+header img {
+  width: 100vw;
+  height: 75%;
+  postion: relative;
+  top: 0px;
+  left: 0px;
+}
+
+nav {
+  background: black;
+  margin-bottom: 0px !important;
+  border-radius: 0px !important;
+  font-size: 17px;
+
+}
+.navbar-brand {
+  font-size: 35px;
+}
+
+
+body {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Anton', sans-serif;
+  font-weight: 900;
+  padding: 20px;
+  padding-left: 0px;
+  background-color: white;
+}
+
+
+a {
+  color: red;
+}
+
+a:hover {
+  color: blue;
+}
+
+.navbar-right {
+  margin-right: 0px !important;
+}
+
+#testimonials1 {
+  padding-top: 30px;
+}
+
+.quote {
+  font-size: 30px;
+  text-align: center;
+  position: relative;
+  height: 275px;
+  width: 425px;
+  background-color: #87A3BE;
+  border-style: ridge;
+  border-color: black;
+
+
+}
+
+.pic {
+  position: relative;
+  height: 275px;
+  width: 425px;
+  border-style: ridge;
+  border-color: black;
+}
+
+#pledge {
+  font-size: 30px;
+}
+#list {
+  font-size: 25px;
+}
+.icon {
+  margin: 1px;
+  padding-left: 17px;
+}
